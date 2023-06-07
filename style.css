@@ -29,7 +29,7 @@
   .box1 p{
     z-index: 1;
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 16px;
     position: relative;
     display: flex;
     left: 1px;
@@ -200,7 +200,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   margin-top: 40px;
   font-weight: bold; 
   margin-left: 20px;
-  font-size: 25px;
+  font-size: 18px;
   -webkit-text-fill-color: rgb(0, 0, 0);
   -webkit-text-stroke: 1px rgb(34, 94, 102);
   
